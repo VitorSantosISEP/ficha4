@@ -1,0 +1,4 @@
+public class exercicio4g1{
+public static void main (String[] args){
+System.out.println("Digite vário núemros que direi quantos são positivos")
+}}
